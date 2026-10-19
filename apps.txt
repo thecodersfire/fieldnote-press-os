@@ -4,7 +4,19 @@ org.libreoffice.LibreOffice
 org.mozilla.firefox
 com.opera.opera-gx
 
-# Three additional preinstalled purpose-specific applications
+# Three previously added purpose-specific applications
 org.scribus.Scribus
 org.kde.kdenlive
 org.audacityteam.Audacity
+
+# Ten additional preinstalled purpose-specific applications
+org.zotero.Zotero
+com.calibre_ebook.calibre
+com.github.johnfactotum.Foliate
+net.ankiweb.Anki
+org.gnome.Papers
+org.gnome.TextEditor
+org.gnome.Calendar
+org.gnome.clocks
+org.gnome.SimpleScan
+org.gnome.Contacts
