@@ -24,3 +24,11 @@ The `fieldnote-press.svg` wallpaper is original. Fieldnote Press OS is an indepe
 
 See [FEATURES.md](FEATURES.md) for three local tools included for journalism.
 
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GIMP, Inkscape, Krita**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Scribus, Kdenlive, Audacity**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Scribus, Kdenlive, Audacity**. See [FEATURES.md](FEATURES.md).
